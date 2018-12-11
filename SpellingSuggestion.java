@@ -53,6 +53,7 @@ public class SpellingSuggestion {
 				builder.append("\t");
 				builder.append(word);
 				builder.append("\n");
+			
 			}
 		}
 		return builder.toString();
