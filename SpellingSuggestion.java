@@ -1,7 +1,7 @@
 import java.util.List;
 /**
  * Class of misspelled word and list of suggestions.
- * @author Yael Mathov
+ * @author 
  *
  */
 public class SpellingSuggestion {
