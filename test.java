@@ -154,7 +154,7 @@ public class testerRon {
 		test((sc.spellingCheck("love").toString().equals("[]")), "The answer should be ."); //78
 		String text = "iam afraid youare about to become teh f iam immexdiate pst president of teh f eing alive club ha ha glados iam afraid youare about to become teh immexdiate pst president of teh eing alive club ha ha glados";		
 		System.out.println(sc.spellingCheck(text));
-		System.out.println("áãå÷ ùääãôñä äàçøåğä úåàîú ìôìè áãôé äòáåãä");
+		System.out.println("Ã¡Ã£Ã¥Ã· Ã¹Ã¤Ã¤Ã£Ã´Ã±Ã¤ Ã¤Ã Ã§Ã¸Ã¥Ã°Ã¤ ÃºÃ¥Ã Ã®Ãº Ã¬Ã´Ã¬Ã¨ Ã¡Ã£Ã´Ã© Ã¤Ã²Ã¡Ã¥Ã£Ã¤");
 		
 	}
 }
